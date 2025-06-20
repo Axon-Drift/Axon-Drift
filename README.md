@@ -36,6 +36,7 @@ Axón Drift is an innovative project that leverages artificial intelligence and 
    ```bash
    git clone https://github.com/Axon-Drift/Axon-Drift.git
    cd Axon-Drift
+   cd src
    ```
 
 2. **Create a Virtual Environment**:
