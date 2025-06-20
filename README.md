@@ -106,7 +106,7 @@ Follow these steps to run and use the Axón Drift graphical interface:
 
 ![prediccion imgsen](https://github.com/user-attachments/assets/a08f36da-8c78-4f26-a143-2eff52ee1cf1)
 
-**Power BI**
+**PowerBI**
 
 ![poerbi](https://github.com/user-attachments/assets/b8d06768-48cc-42b4-8e8f-dd2dff0a3154)
 
