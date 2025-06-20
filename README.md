@@ -116,8 +116,7 @@ Follow these steps to run and use the Axón Drift graphical interface:
 - Feel free to open issues or pull requests on GitHub.
 - Please follow style guidelines and document your changes.
 
-## License
-[Specify a license, e.g., MIT or GPL, if applicable. By default, no license.]
+
 
 ## Last Updated
 June 19, 2025, 06:48 PM CST
