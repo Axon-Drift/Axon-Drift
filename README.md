@@ -9,7 +9,10 @@
 Axón Drift is an innovative project that leverages artificial intelligence and space technologies to detect space debris, predict trajectories, assess collision risks, and plan evasion maneuvers. This project integrates machine learning models like YOLOv5, genetic algorithms, fuzzy logic, and Power BI visualization, all deployed using Azure tools.
 
 ## Axon Drift PowerPoint presentation
-[Axon Drift PowerPoint presentation.pptx](https://github.com/user-attachments/files/20836243/Axon.Drift.PowerPoint.presentation.pptx)
+
+
+[Axon Drift PowerPoint presentation.pptx](https://github.com/user-attachments/files/20836773/Axon.Drift.PowerPoint.presentation.pptx)
+
 
 
 ## Axon Drift Video Youtube
