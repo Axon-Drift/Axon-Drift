@@ -1,0 +1,13 @@
+inference
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+numpy
+pillow
+pyyaml
+tqdm
+tkinterweb
+Pillow opencv-python
+CairoSVG pycairo

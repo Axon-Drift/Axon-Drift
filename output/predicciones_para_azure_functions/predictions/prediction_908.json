@@ -1,0 +1,14 @@
+{
+    "id": "908",
+    "timestamp": "2025-06-19T05:37:14.009412",
+    "predictions": [
+        {
+            "confidence": 0.15
+        }
+    ],
+    "_rid": "Onw4AMu-HDg908AAAAAAAAAA==",
+    "_self": "dbs/Onw4AA==/colls/Onw4AMu-HDg=/docs/Onw4AMu-HDg908AAAAAAAAAA==/",
+    "_etag": "\"c000b0980-0000-0800-0000-6853a8960000\"",
+    "_attachments": "attachments/",
+    "_ts": 1750311434
+}

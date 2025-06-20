@@ -1,0 +1,7 @@
+
+path: C:/Users/adolf/OneDrive/Desktop/DebrisDetectionProject/data
+train: train.txt
+val: val.txt
+
+nc: 4
+names: ['fragmento_pequeno', 'panel_solar', 'sensor', 'resto_electronico']
