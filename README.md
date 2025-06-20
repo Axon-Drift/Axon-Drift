@@ -15,8 +15,8 @@ Axón Drift is an innovative project that leverages artificial intelligence and 
 - **Maneuver Planning**: Optimization with genetic algorithms in Azure Machine Learning.
 - **Visualization**: Interactive dashboard in Power BI with automation via Azure Logic Apps.
 
+## System Architecture Diagram
 
-###System Architecture Diagram
 ![DIAGRAMA](https://github.com/user-attachments/assets/0fac5fcd-38f5-436f-9c4a-1538202499cd)
 
 
