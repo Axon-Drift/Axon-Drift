@@ -1,5 +1,10 @@
 # Axón Drift - Space Debris Detection
 
+
+![AXONLOGO](https://github.com/user-attachments/assets/fad022aa-2984-4008-ae50-f8fc82dc522e)
+
+
+
 ## Description
 Axón Drift is an innovative project that leverages artificial intelligence and space technologies to detect space debris, predict trajectories, assess collision risks, and plan evasion maneuvers. This project integrates machine learning models like YOLOv5, genetic algorithms, fuzzy logic, and Power BI visualization, all deployed using Azure tools.
 
@@ -87,13 +92,6 @@ Follow these steps to run and use the Axón Drift graphical interface:
      - Click "Stop Camera" to end the stream.
      - The Power BI dashboard will open when starting and close when stopping.
 
-4. **Notes**:
-   - Ensure the `output/predictions/` and `output/videos/` folders exist or create them manually:
-     ```bash
-     mkdir output\predictions
-     mkdir output\videos
-     ```
-   - The Power BI URL in `gui.py` must be valid and accessible (`https://app.powerbi.com/reportEmbed?...`).
 
 ## Project Structure
 - `gui.py`: Main graphical interface.
