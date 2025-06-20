@@ -49,11 +49,7 @@ Axón Drift is an innovative project that leverages artificial intelligence and 
    ```bash
    pip install -r requirements.txt
    ```
-   - Note: If you don’t have a `requirements.txt`, create one with:
-     ```bash
-     pip freeze > requirements.txt
-     ```
-   - Ensure the libraries listed under "Requirements" are included.
+
 
 4. **Download the YOLOv5 Model**:
    - Place the `best.pt` file in `models/yolo/debris_detector2/weights/`.
